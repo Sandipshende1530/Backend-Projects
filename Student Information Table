@@ -1,0 +1,45 @@
+<html>
+    <head>
+        <title>Student Information</title>
+    </head>
+    <body>
+        <h2>Student Information</h2>
+        <table border="1">
+            <tr>
+                <th>Student Id</th>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Gender</th>
+                <th>Grade</th>
+            </tr>
+            <tr>
+                <td>101</td>
+                <td>Sandhya</td>
+                <td>22</td>
+                <td>Female</td>
+                <td>A</td>
+            </tr>
+            <tr>
+                <td>102</td>
+                <td>Shreya</td>
+                <td>22</td>
+                <td>Female</td>
+                <td>B</td>
+            </tr>
+            <tr>
+                <td>103</td>
+                <td>Soumya</td>
+                <td>21</td>
+                <td>Female</td>
+                <td>A</td>
+            </tr>
+            <tr>
+                <td>104</td>
+                <td>Nikhil</td>
+                <td>21</td>
+                <td>Male</td>
+                <td>C</td>
+            </tr>
+        </table>
+    </body>
+</html>
